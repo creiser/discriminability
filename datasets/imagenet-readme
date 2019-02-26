@@ -1,0 +1,2 @@
+ImageNet must be accessible under 'datasets/imagenet-full'. A copy can be
+avoided by making a symbolic link to ImageNet.
